@@ -13,7 +13,7 @@ pipeline {
                     branches: [[name: '*/main']],
                     extensions: [],
                     userRemoteConfigs: [[
-                        url: 'https://github.com/Harshavardhanchary/congenial-octo-engine.git'
+                        url: 'https://github.com/Harshavardhanchary/chattingo.git'
                     ]]
                 )
                 echo 'Checkout successful'
